@@ -1,6 +1,6 @@
 # Bulk Email Campaign Management System
 
-A production-quality MVP for managing bulk cold email campaigns. Built for internal sales teams with Microsoft SSO, AI-powered email generation, AWS SES delivery, and comprehensive analytics.
+A production-quality MVP for managing bulk cold email campaigns. Built for internal sales teams with Microsoft SSO, AI-powered email generation, AWS SES delivery, and comprehensive analytics. Built it as an internal tool for a company I interned at.
 
 ## Tech Stack
 
